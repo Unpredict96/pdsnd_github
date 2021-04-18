@@ -7,7 +7,7 @@
 BikeShare
 
 ### Description
-Add documentation and refactoring onto Github
+Add documentation, markdown and refactoring onto Github
 
 ### Files used
 bikeshare_2.py, README.md, .gitignore
